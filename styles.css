@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  color: red;
+  font-size: 40px;
+}
+.link {
+  background-color: rgba(0, 0, 255, 0.179);
+  color: black;
+  font-size: 24px;
+}
