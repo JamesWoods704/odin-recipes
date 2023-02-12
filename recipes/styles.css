@@ -1,5 +1,16 @@
 .title {
     text-align: center;
-    color: rgb(92, 255, 10);
+    color: rgba(10, 51, 255, 0.633);
     font-size: 40px;
+    font-family: fantasy,sans-serif,'Times New Roman', Times, serif;
+  }
+  .img {
+    height: auto;
+    width: 500px;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  li {
+    font-family: sans-serif;
   }
